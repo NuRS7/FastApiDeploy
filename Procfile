@@ -1,1 +1,1 @@
-web: uvicorn main:app --bind
+web: uvicorn main:app
